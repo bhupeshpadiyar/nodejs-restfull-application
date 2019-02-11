@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-restfull-application",
+  "version": "1.0.0",
+  "description": "Simple RESTFULL CRUD services developed with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhupeshpadiyar/nodejs-restfull-application.git"
+  },
+  "keywords": [
+    "api",
+    "restful",
+    "json"
+  ],
+  "author": "Bhupesh Singh Padiyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhupeshpadiyar/nodejs-restfull-application/issues"
+  },
+  "homepage": "https://github.com/bhupeshpadiyar/nodejs-restfull-application#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.11"
+  }
+}
